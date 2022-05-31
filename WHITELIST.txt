@@ -19,16 +19,6 @@
 
 2.Yuji Midorikawa
 
-D1CFA353-F7EA-2E7C-1826-4CEDFBC9C430
-
-
-
-
-
-
-
-3.Evan Jolo Almazan
-
 A19EB78C-6B28-5E1E-A960-2CF05D805C1B
 
 
@@ -37,7 +27,7 @@ A19EB78C-6B28-5E1E-A960-2CF05D805C1B
 
 
 
-4.Jaycee Martinez
+3.Jaycee Martinez
 
 
 
@@ -50,7 +40,7 @@ A19EB78C-6B28-5E1E-A960-2CF05D805C1B
 
 
 
-5.Joshua Viray
+4.Joshua Viray
 
 
 C3631F8E-A3DB-11EB-810A-7C8AE17C54E6
@@ -62,7 +52,7 @@ C3631F8E-A3DB-11EB-810A-7C8AE17C54E6
 
 
 
-6.Migoqtpa2tie
+5.Migoqtpa2tie
 
 
 03000200-0400-0500-0006-000700080009
@@ -74,4 +64,4 @@ C3631F8E-A3DB-11EB-810A-7C8AE17C54E6
 
 
 
-7.Adrian Macapinlac
+6.Adrian Macapinlac
