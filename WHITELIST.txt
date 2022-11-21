@@ -66,23 +66,7 @@ B8975DBA-EC8D-0BB6-F68F-04D4C44B3D82
 
 
 
-8. reign
-
-
-03C00218-044D-054A-3006-0C0700080009
-
-
-
-
-
-
-
-
-
-
-
-
-9.Shune disc
+8.Shune disc
 
 
 
@@ -99,7 +83,7 @@ E6B5D817-0BA6-CB42-A922-164D8ACA6FE0
 
 
 
-10.srwhaley discord
+9.srwhaley discord
 
 
 
@@ -113,7 +97,7 @@ E6B5D817-0BA6-CB42-A922-164D8ACA6FE0
 
 
 
-11.opya discord
+10.opya discord
 
 
 
@@ -129,7 +113,7 @@ D50D8500-FF37-E26E-AA5F-04421AA9D098
 
 
 
-12.Jei Daniel cerro
+11.Jei Daniel cerro
 
 
 
@@ -139,7 +123,7 @@ D50D8500-FF37-E26E-AA5F-04421AA9D098
 
 
 
-13.Sydney Isko
+12.Sydney Isko
 
 
 FA636F2A-9BDA-D2A8-587A-364BC23D346F
@@ -156,7 +140,7 @@ FA636F2A-9BDA-D2A8-587A-364BC23D346F
 
 
 
-14. Ojitsu disc
+13. Ojitsu disc
 
 
 9A19C14E-83F0-4283-B7FC-5BA68C683180
@@ -170,7 +154,7 @@ FA636F2A-9BDA-D2A8-587A-364BC23D346F
 
 
 
-15.lassiiz discord
+14.lassiiz discord
 
 58E39B4D-BCD3-8E4E-93B3-49E7C1D5E4F0
 
@@ -186,7 +170,7 @@ FA636F2A-9BDA-D2A8-587A-364BC23D346F
 
 
 
-16. Julia Yap
+15. Julia Yap
 
 
 4392E0EE-D160-11E9-8F7C-BCA13C07A400
@@ -200,7 +184,7 @@ FA636F2A-9BDA-D2A8-587A-364BC23D346F
 
 
 
-17. realzgt discord
+16. realzgt discord
 
 
 8AEB0068-5995-B749-B626-F646C854D372
@@ -213,4 +197,19 @@ FA636F2A-9BDA-D2A8-587A-364BC23D346F
 
 
 
-18. Jhan Rhey 
+17. Jhan Rhey 
+
+
+
+03C00218-044D-054A-3006-0C0700080009
+
+
+
+
+
+
+
+
+
+
+18. Reign
